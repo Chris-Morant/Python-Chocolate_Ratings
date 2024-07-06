@@ -1,6 +1,5 @@
 # Project Overview
-     Flavors of Cacao is a website run by the Manhattan Chocolate Society dedicated to rating chocolate bars through research and taste testing. The website has reviewed over 2,700 different chocolate bars and has collected data on their composition, production and rating. This data can be used to explore and identify the factors, such as cocoa percent and bean origin, that are most common on high rated chocolate bars. The goal of this data exploration is to determine what the ideal factors are for the best chocolate experience.
-Python is used for the purposes of cleaning and analyzing the data for later use in a Tableau presentation.
+     Flavors of Cacao is a website run by the Manhattan Chocolate Society dedicated to rating chocolate bars through research and taste testing. The website has reviewed over 2,700 different chocolate bars and has collected data on their composition, production and rating. This data can be used to explore and identify the factors, such as cocoa percent and bean origin, that are most common on high rated chocolate bars. The goal of this data exploration is to determine what the ideal factors are for the best chocolate experience. Python is used for the purposes of cleaning and analyzing the data for later use in a Tableau presentation.
 
 ## Key Questions and Objectives
 - The main objective is to find the best recommendation for a chocolate bar based on its ingredients, cacao bean, and chocolate manufacturer using reviews.
