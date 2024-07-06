@@ -13,7 +13,9 @@ Python is used for the purposes of cleaning and analyzing the data for later use
   5 Does a high percentage of cacao result in a higher rating?
 
 ## Data
-The data set used for this project was found using kaggle and originates from the flavours of cacao webstite. New Columns 
+The data set used for this project was found using kaggle and originates from the flavours of cacao webstite. 
+
+Chocolate Bar Ratings 2022 
 
 ## Tools 
 Python was used to analyze and work with the data alongside the following libraries:
