@@ -45,3 +45,5 @@ The project folders included in this project are the following:
 - Scripts: contains compressed code written using Jupyter notebooks
 - Analysis: contains all the visuals created in Python
 
+## Link to Tableau Presentation
+https://public.tableau.com/app/profile/christian.morant/viz/ChocolateBarRatingPresentation/CBRPresentation
